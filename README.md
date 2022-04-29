@@ -1,6 +1,4 @@
-## logo.plainedit.com
-
-# logo.infreck.com
+# [logo.plainedit.com](https://logo.plainedit.com/)
 
 
 ## Font
